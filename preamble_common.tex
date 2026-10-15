@@ -1,0 +1,61 @@
+\documentclass[preprint,12pt,authoryear]{elsarticle}
+
+\usepackage[margin=1.15in]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools,bm}
+\usepackage{booktabs,array,longtable,enumitem,needspace}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,calc}
+\usepackage{hyperref}
+\usepackage[nameinlink,capitalise,noabbrev]{cleveref}
+
+\definecolor{citationblue}{HTML}{1F5A9D}
+\definecolor{normalblue}{HTML}{0072B2}
+\definecolor{normalorange}{HTML}{D55E00}
+\definecolor{normalgreen}{HTML}{009E73}
+\definecolor{nodegray}{HTML}{F2F4F7}
+\definecolor{clearinggreen}{HTML}{D8F0E7}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=citationblue,
+  urlcolor=citationblue,
+  filecolor=citationblue,
+  pdftitle={Buyer-Specific Payments Separate Equilibrium Convexity from Posted-Price Integrability},
+  pdfauthor={Zhongji Wei},
+  pdfsubject={Working paper},
+  pdfkeywords={buyer-specific payments, Walrasian equilibrium, gross substitutes, imperfectly transferable utility, convex potential, price adjustment}
+}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}[section]
+\theoremstyle{definition}
+\newtheorem{example}{Example}
+\newtheorem{definition}{Definition}
+
+% Keep Elsevier's subsection spacing, but use upright bold headings for a clearer hierarchy.
+\makeatletter
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+           {12\p@ \@plus 6\p@ \@minus 3\p@}%
+           {3\p@ \@plus 6\p@ \@minus 3\p@}%
+           {\normalfont\normalsize\bfseries\boldmath}}
+\makeatother
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\co}{\operatorname{co}}
+\newcommand{\argmin}{\operatorname*{arg\,min}}
+\newcommand{\argmax}{\operatorname*{arg\,max}}
+\newcommand{\diag}{\operatorname{diag}}
+\newcommand{\relint}{\operatorname{relint}}
+\newcommand{\Ecal}{\mathcal{E}}
+\newcommand{\Dcal}{\mathcal{D}}
+\newcommand{\Pcal}{\mathcal{P}}
+\newcommand{\Xcal}{\mathcal{X}}
+\newcommand{\one}{\mathbf{1}}
+\newcommand{\zero}{\mathbf{0}}
+\newcommand{\eps}{\varepsilon}

@@ -1,0 +1,290 @@
+\begin{thebibliography}{32}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Alkan(1989)}]{alkan1989}
+\bibinfo{author}{Alkan, A.}, \bibinfo{year}{1989}.
+\newblock \bibinfo{title}{Existence and computation of matching equilibria}.
+\newblock \bibinfo{journal}{European Journal of Political Economy}
+  \bibinfo{volume}{5}, \bibinfo{pages}{285--296}.
+\newblock \DOIprefix\doi{10.1016/0176-2680(89)90050-5}.
+%Type = Incollection
+\bibitem[{Alkan(1992)}]{alkan1992}
+\bibinfo{author}{Alkan, A.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Equilibrium in a matching market with general
+  preferences}, in: \bibinfo{booktitle}{Equilibrium and Dynamics: Essays in
+  Honour of David Gale}. \bibinfo{publisher}{Macmillan}, pp.
+  \bibinfo{pages}{1--16}.
+\newblock \DOIprefix\doi{10.1007/978-1-349-11696-6_1}.
+%Type = Article
+\bibitem[{Ausubel(2006)}]{ausubel2006}
+\bibinfo{author}{Ausubel, L.M.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{An efficient dynamic auction for heterogeneous
+  commodities}.
+\newblock \bibinfo{journal}{American Economic Review} \bibinfo{volume}{96},
+  \bibinfo{pages}{602--629}.
+\newblock \DOIprefix\doi{10.1257/aer.96.3.602}.
+%Type = Article
+\bibitem[{Baisa(2017)}]{baisa2017}
+\bibinfo{author}{Baisa, B.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Auction design without quasilinear preferences}.
+\newblock \bibinfo{journal}{Theoretical Economics} \bibinfo{volume}{12},
+  \bibinfo{pages}{53--78}.
+\newblock \DOIprefix\doi{10.3982/TE1951}.
+%Type = Article
+\bibitem[{Baldwin et~al.(2023)Baldwin, Jagadeesan, Klemperer and
+  Teytelboym}]{baldwinjagadeesanklempererteytelboym2023}
+\bibinfo{author}{Baldwin, E.}, \bibinfo{author}{Jagadeesan, R.},
+  \bibinfo{author}{Klemperer, P.}, \bibinfo{author}{Teytelboym, A.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{The equilibrium existence duality}.
+\newblock \bibinfo{journal}{Journal of Political Economy}
+  \bibinfo{volume}{131}, \bibinfo{pages}{1440--1476}.
+\newblock \DOIprefix\doi{10.1086/722935}.
+%Type = Article
+\bibitem[{Baldwin and Klemperer(2019)}]{baldwinklemperer2019}
+\bibinfo{author}{Baldwin, E.}, \bibinfo{author}{Klemperer, P.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Understanding preferences: ``demand types'', and the
+  existence of equilibrium with indivisibilities}.
+\newblock \bibinfo{journal}{Econometrica} \bibinfo{volume}{87},
+  \bibinfo{pages}{867--932}.
+\newblock \DOIprefix\doi{10.3982/ECTA13693}.
+%Type = Inproceedings
+\bibitem[{Balkanski et~al.(2024)Balkanski, En and
+  Faenza}]{balkanskienfaenza2024}
+\bibinfo{author}{Balkanski, E.}, \bibinfo{author}{En, C.},
+  \bibinfo{author}{Faenza, Y.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{An algorithm for the assignment game beyond additive
+  valuations}, in: \bibinfo{booktitle}{Proceedings of the 25th ACM Conference
+  on Economics and Computation (EC'24)}, \bibinfo{publisher}{ACM}.
+  p.~\bibinfo{pages}{41}.
+\newblock \DOIprefix\doi{10.1145/3670865.3673490}.
+%Type = Article
+\bibitem[{Bedard and Goeree(2025)}]{bedardgoeree2025}
+\bibinfo{author}{Bedard, N.C.}, \bibinfo{author}{Goeree, J.K.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Tropical analysis: With an application to indivisible
+  goods}.
+\newblock \bibinfo{journal}{Theoretical Economics} \bibinfo{volume}{20},
+  \bibinfo{pages}{815--829}.
+\newblock \DOIprefix\doi{10.3982/TE5831}.
+%Type = Article
+\bibitem[{Bikhchandani and Mamer(1997)}]{bikhchandanimamer1997}
+\bibinfo{author}{Bikhchandani, S.}, \bibinfo{author}{Mamer, J.W.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{Competitive equilibrium in an exchange economy with
+  indivisibilities}.
+\newblock \bibinfo{journal}{Journal of Economic Theory} \bibinfo{volume}{74},
+  \bibinfo{pages}{385--413}.
+\newblock \DOIprefix\doi{10.1006/jeth.1996.2269}.
+%Type = Article
+\bibitem[{Cheung et~al.(2020)Cheung, Cole and Devanur}]{cheungcoledevanur2020}
+\bibinfo{author}{Cheung, Y.K.}, \bibinfo{author}{Cole, R.},
+  \bibinfo{author}{Devanur, N.R.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{T{\^a}tonnement beyond gross substitutes? {Gradient}
+  descent to the rescue}.
+\newblock \bibinfo{journal}{Games and Economic Behavior} \bibinfo{volume}{123},
+  \bibinfo{pages}{295--326}.
+\newblock \DOIprefix\doi{10.1016/j.geb.2019.03.014}.
+%Type = Article
+\bibitem[{Danilov et~al.(2001)Danilov, Koshevoy and
+  Murota}]{danilovkoshevoymurota2001}
+\bibinfo{author}{Danilov, V.I.}, \bibinfo{author}{Koshevoy, G.A.},
+  \bibinfo{author}{Murota, K.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{Discrete convexity and equilibria in economies with
+  indivisible goods and money}.
+\newblock \bibinfo{journal}{Mathematical Social Sciences} \bibinfo{volume}{41},
+  \bibinfo{pages}{251--273}.
+\newblock \DOIprefix\doi{10.1016/S0165-4896(00)00071-8}.
+%Type = Article
+\bibitem[{Demange and Gale(1985)}]{demangegale1985}
+\bibinfo{author}{Demange, G.}, \bibinfo{author}{Gale, D.},
+  \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{The strategy structure of two-sided matching
+  markets}.
+\newblock \bibinfo{journal}{Econometrica} \bibinfo{volume}{53},
+  \bibinfo{pages}{873--888}.
+\newblock \DOIprefix\doi{10.2307/1912658}.
+%Type = Article
+\bibitem[{Fleiner et~al.(2019)Fleiner, Jagadeesan, Jank\'o and
+  Teytelboym}]{fleineretal2019}
+\bibinfo{author}{Fleiner, T.}, \bibinfo{author}{Jagadeesan, R.},
+  \bibinfo{author}{Jank\'o, Z.}, \bibinfo{author}{Teytelboym, A.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Trading networks with frictions}.
+\newblock \bibinfo{journal}{Econometrica} \bibinfo{volume}{87},
+  \bibinfo{pages}{1633--1661}.
+\newblock \DOIprefix\doi{10.3982/ECTA14159}.
+%Type = Article
+\bibitem[{Galichon et~al.(2019)Galichon, Kominers and
+  Weber}]{galichonkominersweber2019}
+\bibinfo{author}{Galichon, A.}, \bibinfo{author}{Kominers, S.D.},
+  \bibinfo{author}{Weber, S.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Costly concessions: An empirical framework for
+  matching with imperfectly transferable utility}.
+\newblock \bibinfo{journal}{Journal of Political Economy}
+  \bibinfo{volume}{127}, \bibinfo{pages}{2875--2925}.
+\newblock \DOIprefix\doi{10.1086/702020}.
+%Type = Incollection
+\bibitem[{Galichon and Weber(2024)}]{galichonweber2024}
+\bibinfo{author}{Galichon, A.}, \bibinfo{author}{Weber, S.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Matching under imperfectly transferable utility}, in:
+  \bibinfo{booktitle}{Handbook of the Economics of Matching}.
+  \bibinfo{publisher}{Elsevier}. volume~\bibinfo{volume}{1}, pp.
+  \bibinfo{pages}{79--122}.
+\newblock \DOIprefix\doi{10.1016/bs.hesmat.2024.10.002}.
+%Type = Article
+\bibitem[{Gul and Stacchetti(1999)}]{gulstacchetti1999}
+\bibinfo{author}{Gul, F.}, \bibinfo{author}{Stacchetti, E.},
+  \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{Walrasian equilibrium with gross substitutes}.
+\newblock \bibinfo{journal}{Journal of Economic Theory} \bibinfo{volume}{87},
+  \bibinfo{pages}{95--124}.
+\newblock \DOIprefix\doi{10.1006/jeth.1999.2531}.
+%Type = Article
+\bibitem[{Gul and Stacchetti(2000)}]{gulstacchetti2000}
+\bibinfo{author}{Gul, F.}, \bibinfo{author}{Stacchetti, E.},
+  \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{The {English} auction with differentiated
+  commodities}.
+\newblock \bibinfo{journal}{Journal of Economic Theory} \bibinfo{volume}{92},
+  \bibinfo{pages}{66--95}.
+\newblock \DOIprefix\doi{10.1006/jeth.1999.2580}.
+%Type = Article
+\bibitem[{Hatfield and Milgrom(2005)}]{hatfieldmilgrom2005}
+\bibinfo{author}{Hatfield, J.W.}, \bibinfo{author}{Milgrom, P.R.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Matching with contracts}.
+\newblock \bibinfo{journal}{American Economic Review} \bibinfo{volume}{95},
+  \bibinfo{pages}{913--935}.
+\newblock \DOIprefix\doi{10.1257/0002828054825466}.
+%Type = Article
+\bibitem[{Kelso and Crawford(1982)}]{kelsocrawford1982}
+\bibinfo{author}{Kelso, Jr., A.S.}, \bibinfo{author}{Crawford, V.P.},
+  \bibinfo{year}{1982}.
+\newblock \bibinfo{title}{Job matching, coalition formation, and gross
+  substitutes}.
+\newblock \bibinfo{journal}{Econometrica} \bibinfo{volume}{50},
+  \bibinfo{pages}{1483--1504}.
+\newblock \DOIprefix\doi{10.2307/1913392}.
+%Type = Article
+\bibitem[{Kushnir and Lokutsievskiy(2021)}]{kushnirlokutsievskiy2021}
+\bibinfo{author}{Kushnir, A.I.}, \bibinfo{author}{Lokutsievskiy, L.V.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{When is a monotone function cyclically monotone?}
+\newblock \bibinfo{journal}{Theoretical Economics} \bibinfo{volume}{16},
+  \bibinfo{pages}{853--879}.
+\newblock \DOIprefix\doi{10.3982/TE4305}.
+%Type = Article
+\bibitem[{Milgrom and Strulovici(2009)}]{milgromstrulovici2009}
+\bibinfo{author}{Milgrom, P.}, \bibinfo{author}{Strulovici, B.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Substitute goods, auctions, and equilibrium}.
+\newblock \bibinfo{journal}{Journal of Economic Theory} \bibinfo{volume}{144},
+  \bibinfo{pages}{212--247}.
+\newblock \DOIprefix\doi{10.1016/j.jet.2008.05.002}.
+%Type = Article
+\bibitem[{Moriguchi and Murota(2023)}]{moriguchimurota2023}
+\bibinfo{author}{Moriguchi, S.}, \bibinfo{author}{Murota, K.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Note on the polyhedral description of the {Minkowski}
+  sum of two {L}-convex sets}.
+\newblock \bibinfo{journal}{Japan Journal of Industrial and Applied
+  Mathematics} \bibinfo{volume}{40}, \bibinfo{pages}{223--263}.
+\newblock \DOIprefix\doi{10.1007/s13160-022-00512-3}.
+%Type = Book
+\bibitem[{Murota(2003)}]{murota2003}
+\bibinfo{author}{Murota, K.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{Discrete Convex Analysis}.
+\newblock \bibinfo{publisher}{Society for Industrial and Applied Mathematics},
+  \bibinfo{address}{Philadelphia}.
+\newblock \DOIprefix\doi{10.1137/1.9780898718508}.
+%Type = Article
+\bibitem[{Murota(2016)}]{murota2016}
+\bibinfo{author}{Murota, K.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Discrete convex analysis: A tool for economics and
+  game theory}.
+\newblock \bibinfo{journal}{Journal of Mechanism and Institution Design}
+  \bibinfo{volume}{1}, \bibinfo{pages}{151--273}.
+\newblock \DOIprefix\doi{10.22574/jmid.2016.12.005}.
+%Type = Article
+\bibitem[{Murota et~al.(2016)Murota, Shioura and Yang}]{murotaetal2016}
+\bibinfo{author}{Murota, K.}, \bibinfo{author}{Shioura, A.},
+  \bibinfo{author}{Yang, Z.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Time bounds for iterative auctions: A unified
+  approach by discrete convex analysis}.
+\newblock \bibinfo{journal}{Discrete Optimization} \bibinfo{volume}{19},
+  \bibinfo{pages}{36--62}.
+\newblock \DOIprefix\doi{10.1016/j.disopt.2016.01.001}.
+%Type = Article
+\bibitem[{Murota and Tamura(2024)}]{murotatamura2024}
+\bibinfo{author}{Murota, K.}, \bibinfo{author}{Tamura, A.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Note on {Minkowski} summation and unimodularity in
+  discrete convex analysis}.
+\newblock \bibinfo{journal}{Journal of the Operations Research Society of
+  Japan} \bibinfo{volume}{67}, \bibinfo{pages}{126--134}.
+\newblock \DOIprefix\doi{10.15807/jorsj.67.126}.
+%Type = Misc
+\bibitem[{Oki and Sato(2026)}]{okisato2026}
+\bibinfo{author}{Oki, T.}, \bibinfo{author}{Sato, R.}, \bibinfo{year}{2026}.
+\newblock \bibinfo{title}{Ascending auctions for combinatorial markets with
+  frictions: A unified framework via discrete convex analysis}.
+\newblock \DOIprefix\doi{10.48550/arXiv.2604.10563},
+  \href{http://arxiv.org/abs/2604.10563}{{\tt arXiv:2604.10563}}.
+  \bibinfo{note}{{P}reprint, arXiv v2, 1 September 2026; accepted to appear in
+  the {P}roceedings of the 27th {ACM} {C}onference on {E}conomics and
+  {C}omputation ({EC}'26)}.
+%Type = Article
+\bibitem[{Paes~Leme(2017)}]{paesleme2017}
+\bibinfo{author}{Paes~Leme, R.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Gross substitutability: An algorithmic survey}.
+\newblock \bibinfo{journal}{Games and Economic Behavior} \bibinfo{volume}{106},
+  \bibinfo{pages}{294--316}.
+\newblock \DOIprefix\doi{10.1016/j.geb.2017.10.016}.
+%Type = Article
+\bibitem[{Rochet(1987)}]{rochet1987}
+\bibinfo{author}{Rochet, J.C.}, \bibinfo{year}{1987}.
+\newblock \bibinfo{title}{A necessary and sufficient condition for
+  rationalizability in a quasi-linear context}.
+\newblock \bibinfo{journal}{Journal of Mathematical Economics}
+  \bibinfo{volume}{16}, \bibinfo{pages}{191--200}.
+\newblock \DOIprefix\doi{10.1016/0304-4068(87)90007-3}.
+%Type = Article
+\bibitem[{Rockafellar(1966)}]{rockafellar1966}
+\bibinfo{author}{Rockafellar, R.T.}, \bibinfo{year}{1966}.
+\newblock \bibinfo{title}{Characterization of the subdifferentials of convex
+  functions}.
+\newblock \bibinfo{journal}{Pacific Journal of Mathematics}
+  \bibinfo{volume}{17}, \bibinfo{pages}{497--510}.
+\newblock \DOIprefix\doi{10.2140/pjm.1966.17.497}.
+%Type = Article
+\bibitem[{Schlegel(2022)}]{schlegel2022}
+\bibinfo{author}{Schlegel, J.C.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{The structure of equilibria in trading networks with
+  frictions}.
+\newblock \bibinfo{journal}{Theoretical Economics} \bibinfo{volume}{17},
+  \bibinfo{pages}{801--839}.
+\newblock \DOIprefix\doi{10.3982/TE4405}.
+%Type = Article
+\bibitem[{Shapley and Shubik(1971)}]{shapleyshubik1971}
+\bibinfo{author}{Shapley, L.S.}, \bibinfo{author}{Shubik, M.},
+  \bibinfo{year}{1971}.
+\newblock \bibinfo{title}{The assignment game {I}: The core}.
+\newblock \bibinfo{journal}{International Journal of Game Theory}
+  \bibinfo{volume}{1}, \bibinfo{pages}{111--130}.
+\newblock \DOIprefix\doi{10.1007/BF01753437}.
+
+\end{thebibliography}

@@ -1,0 +1,22 @@
+PASS: all nine facet rays have exactly the claimed tie and all other comparisons strict.
+PASS: the legacy seven-cell regression has the expected excess-supply vectors.
+PASS: exact holonomy algebra gives b=(16/15)a on one cycle and b=(5/2)a on the other.
+PASS: an independent exact rank audit finds that the full facet-jump/zero-pattern system has only the zero solution.
+PASS: all three ridges have exactly the claimed ties, strict comparisons, and excess-supply vertices.
+PASS: exact endpoint margins certify all three open ridge-to-ridge facet segments, not merely sampled points.
+PASS: exact A/B/C/E witnesses certify four full-dimensional unique-demand cells.
+PASS: K-derived normals have the claimed orientations at all cell witnesses and incidences at all ridges.
+PASS: six exact checks verify the zero/nonzero coordinate patterns required for extreme-ray isolation.
+PASS: normal-derived ridge ratios are 4/3, 5/2, and 5/4; the cycle products are 32 and 75.
+PASS: exp(C_0)=100 certifies positive prices and outside-option domination at all displayed points and along all three closed segments.
+PASS: symbolic checks verify the translation and exponential-dilation affine semigroups and their composition laws.
+PASS: symbolic cross-good checks confirm that log coordinates require a common rate and cannot mix with affine coordinates.
+PASS: as a supplemental C2 check, affine and normalized log-affine coordinates have curvature ratios 0 and -1.
+PASS: 1,000 randomized tests confirm that every log difference constraint is exactly an affine halfspace in posted prices.
+PASS: randomized nonlinear stress tests confirm the midpoint-sign construction behind the C1 local-minor proof.
+PASS: the 2x2 logarithmic max-potential has the required excess-supply sign patterns.
+PASS: the exact linear 2x2 example has clearing endpoints and a nonclearing midpoint.
+PASS: the exact kink example has a bent clearing locus and a nonclearing midpoint.
+PASS: at the kink, beta(p)p=2 differs from the integrated effective price Q(p)=1.
+PASS: 2,000 randomized kink configurations bend the effective-price level set.
+PASS: 1,000 randomized rank-one marginal matrices have zero 2x2 minors.
