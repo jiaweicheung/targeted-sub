@@ -1,0 +1,25 @@
+# LaTeX intermediates; source files and finished PDFs remain trackable.
+/build/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex
+*.synctex.gz
+*.toc
+*.xdv
+
+# Keep the bibliography already distributed with the original manuscript.
+!/convex_potentials_to_Jiawei.bbl
+
+# Python verification caches.
+__pycache__/
+*.py[cod]
